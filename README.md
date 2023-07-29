@@ -1,4 +1,4 @@
-# final-project-ironhack-data
+# final-project-ironhack-data-bundesliga-game-predictor
 
 ## Predicting Football Matches Results
 This repository contains a Python-based project aimed at predicting the outcomes of football matches in the Bundesliga using supervised machine learning techniques. The outcomes are classified into three categories: 'home win', 'away win', and 'draw'.
